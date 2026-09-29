@@ -1,0 +1,102 @@
+[
+{
+  "model": "games.game",
+  "pk": 8,
+  "fields": {
+    "title": "The Witcher 3: Wild Hunt",
+    "description": "An open-world RPG where you play as Geralt of Rivia, a monster hunter searching for his adopted daughter.",
+    "price": "39.99",
+    "release_date": "2015-05-19"
+  }
+},
+{
+  "model": "games.game",
+  "pk": 9,
+  "fields": {
+    "title": "Cyberpunk 2077",
+    "description": "An open-world action RPG set in Night City, where you play as a mercenary named V.",
+    "price": "49.99",
+    "release_date": "2020-12-10"
+  }
+},
+{
+  "model": "games.game",
+  "pk": 10,
+  "fields": {
+    "title": "Red Dead Redemption 2",
+    "description": "An open-world action-adventure game following Arthur Morgan and the Van der Linde gang.",
+    "price": "59.99",
+    "release_date": "2018-10-26"
+  }
+},
+{
+  "model": "games.game",
+  "pk": 11,
+  "fields": {
+    "title": "Minecraft",
+    "description": "A sandbox game where players can explore, build structures, collect resources, and survive in a block-based world.",
+    "price": "29.99",
+    "release_date": "2011-11-18"
+  }
+},
+{
+  "model": "games.game",
+  "pk": 12,
+  "fields": {
+    "title": "Elden Ring",
+    "description": "An action RPG featuring a large open world, challenging combat, exploration, and powerful enemies.",
+    "price": "59.99",
+    "release_date": "2022-02-25"
+  }
+},
+{
+  "model": "games.game",
+  "pk": 13,
+  "fields": {
+    "title": "Hades",
+    "description": "A fast-paced roguelike action game where Zagreus attempts to escape the Underworld.",
+    "price": "24.99",
+    "release_date": "2020-09-17"
+  }
+},
+{
+  "model": "games.game",
+  "pk": 14,
+  "fields": {
+    "title": "Hollow Knight",
+    "description": "A challenging 2D action-adventure game set in a mysterious underground kingdom.",
+    "price": "14.99",
+    "release_date": "2017-02-24"
+  }
+},
+{
+  "model": "games.game",
+  "pk": 15,
+  "fields": {
+    "title": "Stardew Valley",
+    "description": "A farming and life simulation game where you build a farm, meet villagers, explore caves, and develop relationships.",
+    "price": "14.99",
+    "release_date": "2016-02-26"
+  }
+},
+{
+  "model": "games.game",
+  "pk": 16,
+  "fields": {
+    "title": "Baldur's Gate 3",
+    "description": "A story-driven RPG with turn-based combat, character customization, exploration, and branching choices.",
+    "price": "59.99",
+    "release_date": "2023-08-03"
+  }
+},
+{
+  "model": "games.game",
+  "pk": 17,
+  "fields": {
+    "title": "Portal 2",
+    "description": "A puzzle game where players solve physics-based challenges using a portal gun.",
+    "price": "9.99",
+    "release_date": "2011-04-18"
+  }
+}
+]

@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+env/
+.pytest_cache/
+
+# Django
+server/db.sqlite3
+server/media/
+server/staticfiles/
+
+.env
+.env.*
+!.env.example
+
+.DS_Store
+.idea/
